@@ -126,3 +126,27 @@ img {
     border-radius: 8px;
     margin: 10px;
 }
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #e5e7eb;
+    padding: 80px 600px;
+}
+
+.text {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1F2937;
+    max-width: 700px;
+}
+
+.author {
+    color: #1F2937;
+    max-width: 700px;
+    font-weight: 700;
+    align-self: flex-end;
+}

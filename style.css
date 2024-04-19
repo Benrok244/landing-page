@@ -110,6 +110,7 @@ img {
 .allies {
     display: flex;
     gap: 60px;
+    margin-bottom: 80px;
 }
 
 .box {
